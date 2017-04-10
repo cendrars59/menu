@@ -1,0 +1,18 @@
+.very-large-button{
+	width: 15vw;
+	height: 15vh;
+}
+
+.very-large-button-font-size{
+	font-size: 10vw;
+}
+
+.action-color {
+	color:#4F2170;
+}
+
+/* mouse over link */
+a:hover {
+    color: #00B7C7;
+}
+

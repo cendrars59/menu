@@ -1,0 +1,20 @@
+/* Importing Google fonts */
+
+
+/* Importing components */
+@import url("components/areas.css");
+@import url("components/list.css");
+@import url("components/button.css");
+
+
+/* Managing fonts */
+
+
+
+
+/* Managing colors */
+@import url("color/colors.css");
+
+
+/* Managing pages */
+@import url("pages/myworld.css");
